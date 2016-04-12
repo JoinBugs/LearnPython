@@ -1,0 +1,14 @@
+como en todo lenguaje, y como polluelos que somos iniciando con un
+nuevo entorno, se nos presenta que tenemos ciertos fragmentos de codigo
+en muchas partes y se nos ocurre que podriamos agrupar esos pedazos de 
+codigo, y como python es un lenguaje imperativo, que implementa dos
+paradigmas de programacion( funcional y oriantado a objetos ), tiene
+una sentencia sintactica para que podamos agrupar estas porciones de codigo, 
+esa sentencia es def y como ya te estaras dando cuenta, toda esta palabreria no es mas que hacer funciones, metodos, definiciones.
+
+bien pues, uso:
+def name_method( arg1, arg2, argn ):
+	sentence_1
+	sentence_2
+	sentence_n
+	return value #opcional
