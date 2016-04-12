@@ -1,0 +1,15 @@
+Para depurar un programa en python
+existe un modulo llamado pdb, su utilizacion es
+muy trivial si estas acostumbrado a debuggear en 
+otros entornos, mejor si algunos son graficos!!!.
+Este modulo cuenta con una definicion(set_trace)
+que es la que toma como punto de inicio donde empezara a debuggear con el interprete interactivo de python.
+dentro de este te muestra una flecha(->) indicando
+la linea de codigo donde actualmente se encuantra pausado
+el programa que estas debuggeando, existen comandos para avanzar dentro del codigo:
+
+'list' o tambien 'l', lista el codigo del programa a debuggear.
+'step' o tambiebn 's' avanza linea por linea en la ejecucion del programa.
+
+Existen mas comandos los cuales podemos ver si tecleamos help o h
+y Pues a debuggear se ha dicho!!!.
